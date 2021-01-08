@@ -1,3 +1,3 @@
 import { authorizeHandler } from '@wpengine/headless';
 
-export defualt authorizeHandler; 
+export default authorizeHandler; 
